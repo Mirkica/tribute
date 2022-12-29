@@ -1,0 +1,60 @@
+
+@media screen and (min-width: 480px){
+  #intro{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    color: linen;
+    padding: 5px 0;
+    margin: auto
+  }
+}
+#intro{
+  background-color:#AC7088;
+}
+#image{
+  display: block;
+  height: auto;
+  max-width:100%;
+  margin: auto;
+  overflow: hidden;
+  
+}
+
+#img-caption{
+  text-align:center;
+  font-style: italic;
+  padding: 0 0 20px 0;
+}
+
+.headline{
+  text-align: center;
+}
+.facts{
+  border: 5px groove rgb(236, 204, 178);
+  max-width: 550px;
+  margin: 0 auto 40px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+#tribute-link:hover{
+  color: white;
+}
+#tribute-link{
+  margin: auto;
+  
+}
+
+#footer{
+  background-color: #ECCCB2;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: auto;
+  overflow: hidden;
+  
+}
+
+
